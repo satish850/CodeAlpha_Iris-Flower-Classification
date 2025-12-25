@@ -24,4 +24,4 @@ Build a machine learning model to classify Iris flowers using their measurements
 Achieved ~97% accuracy on test data.
 
 ## Author
-Deva Veera Durga
+Teku Satish
